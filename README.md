@@ -1,5 +1,7 @@
 # Microsoft Northwind Data Warehouse 🚄🗎
 
+A Data Warehouse project based on Microsoft Northwind Database. 
+
 Data Warehouse Star Schema:<br>
 ![image](https://github.com/Bernardbyy/MicrosoftNorthwindDatawarehouse/assets/75737130/00216c3e-57d0-47a6-a31a-29271fd18173)
 
